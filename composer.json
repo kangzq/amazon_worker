@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nategood/httpful": "*",
+	"sunra/php-simple-html-dom-parser": "1.5.1"
+    }
+}	
