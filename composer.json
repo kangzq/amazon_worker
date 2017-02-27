@@ -1,6 +1,6 @@
 {
     "require": {
-        "nategood/httpful": "*",
-	"sunra/php-simple-html-dom-parser": "1.5.1"
+        "rmccue/requests": ">=1.0",
+		"paquettg/php-html-parser": ">=1.7.0"
     }
 }	
